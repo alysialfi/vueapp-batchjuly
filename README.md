@@ -1,3 +1,6 @@
+## Figma Link
+https://www.figma.com/file/AXVOz3qgAHxe3DsRpCJPxG/mentoring-batch-april-mei?type=design&node-id=4-57&mode=design&t=C5MXQ0rwS2jC58wH-0
+
 # web-cli
 
 ## Project setup
